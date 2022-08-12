@@ -1,6 +1,6 @@
 #### About Me 
 <span style="color: #707070;" >똑똑하고 좋은 분들과 빠르게 성장하고 있습니다.</span>
-<br/><br/>
+<br/><br/> 
 
 #### Tech stack
 
