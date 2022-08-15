@@ -4,4 +4,4 @@
 
 #### Tech stack
 
-<img width="200px" src="https://user-images.githubusercontent.com/102412614/183572605-02e1e69a-5db6-49cf-984c-02c33a59614a.png">
+<img width="200px" src="https://user-images.githubusercontent.com/102412614/183572605-02e1e69a-5db6-49cf-984c-02c33a59614a.png"> 
