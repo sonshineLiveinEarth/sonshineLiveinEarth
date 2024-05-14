@@ -5,3 +5,6 @@
 #### Tech stack
 
 <img width="200px" src="https://user-images.githubusercontent.com/102412614/183572605-02e1e69a-5db6-49cf-984c-02c33a59614a.png"> 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
